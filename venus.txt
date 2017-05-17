@@ -1,3 +1,3 @@
-It is blue.
-It is cold.
+It is orange.
+It is hot.
 It is rounded.
